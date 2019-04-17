@@ -1,10 +1,10 @@
 {
   "name": "@ts-npm-examples/basic-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An example of a basic TypeScript NPM module.",
   "main": "/dist/index.js",
   "license": "MIT",
-  "private": false,
+  "repository": "https://github.com/ts-npm-examples/basic-module",
   "scripts": {
     "build": "tsc",
     "test": "npm-run-all lint unit-test",
