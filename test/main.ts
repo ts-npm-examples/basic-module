@@ -1,7 +1,7 @@
 import { describe, it } from 'mocha';
 import { expect } from 'chai';
 
-import { padRight } from '../src';
+import { padRight } from '../dist';
 
 describe('pad right', () =>
 {

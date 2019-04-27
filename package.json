@@ -1,6 +1,6 @@
 {
   "name": "@ts-npm-examples/basic-module",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An example of a basic TypeScript NPM module.",
   "main": "/dist/index.js",
   "license": "MIT",
